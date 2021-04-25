@@ -10,16 +10,16 @@
     ],
     "metro": [
       [
-        "Коптево",
-        "main_app/img/metro/moscow_kolcevaya.png"
+        "name": "Коптево",
+        "link": "main_app/img/metro/moscow_kolcevaya.png"
       ],
       [
-        "Водный стадион",
-        "main_app/img/metro/zamoskvoreckaya.png"
+        "name": "Водный стадион",
+        "link": "main_app/img/metro/zamoskvoreckaya.png"
       ],
       [
-        "Балтийская",
-        "main_app/img/metro/moscow_kolcevaya.png"
+        "name": "Балтийская",
+        "link": "main_app/img/metro/moscow_kolcevaya.png"
       ]
     ]
   },
@@ -35,16 +35,16 @@
     ],
     "metro": [
       [
-        "Коптево",
-        "main_app/img/metro/moscow_kolcevaya.png"
+        "name": "Коптево",
+        "link": "main_app/img/metro/moscow_kolcevaya.png"
       ],
       [
-        "Водный стадион",
-        "main_app/img/metro/zamoskvoreckaya.png"
+        "name": "Водный стадион",
+        "link": "main_app/img/metro/zamoskvoreckaya.png"
       ],
       [
-        "Балтийская",
-        "main_app/img/metro/moscow_kolcevaya.png"
+        "name": "Балтийская",
+        "link": "main_app/img/metro/moscow_kolcevaya.png"
       ]
     ]
   }
