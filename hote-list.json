@@ -10,16 +10,16 @@
     ],
     "metro": [
       [
-        "name": "Коптево",
-        "link": "main_app/img/metro/moscow_kolcevaya.png"
+        "Коптево",
+        "main_app/img/metro/moscow_kolcevaya.png"
       ],
       [
-        "name": "Водный стадион",
-        "link": "main_app/img/metro/zamoskvoreckaya.png"
+        "Водный стадион",
+        "main_app/img/metro/zamoskvoreckaya.png"
       ],
       [
-        "name": "Балтийская",
-        "link": "main_app/img/metro/moscow_kolcevaya.png"
+        "Балтийская",
+        "main_app/img/metro/moscow_kolcevaya.png"
       ]
     ]
   },
