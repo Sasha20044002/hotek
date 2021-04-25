@@ -1,0 +1,51 @@
+[{
+    "title": "Отель для кошек \"Московский кот\"",
+    "address": "г. Москва, Выборгская улица, 20к2",
+    "short_description": "Мы хотим стать вашими друзь..",
+    "phone": "+7 (985) 140-80-10",
+    "work_time": "Круглосуточно",
+    "geo_point": [
+      55.833632,
+      37.497342
+    ],
+    "metro": [
+      [
+        "Коптево",
+        "main_app/img/metro/moscow_kolcevaya.png"
+      ],
+      [
+        "Водный стадион",
+        "main_app/img/metro/zamoskvoreckaya.png"
+      ],
+      [
+        "Балтийская",
+        "main_app/img/metro/moscow_kolcevaya.png"
+      ]
+    ]
+  },
+  {
+    "title": "Отель для кошек \"Московский кот\"",
+    "address": "г. Москва, Выборгская улица, 20к2",
+    "short_description": "Мы хотим стать вашими друзь..",
+    "phone": "+7 (985) 140-80-10",
+    "work_time": "Круглосуточно",
+    "geo_point": [
+      55.833632,
+      37.497342
+    ],
+    "metro": [
+      [
+        "Коптево",
+        "main_app/img/metro/moscow_kolcevaya.png"
+      ],
+      [
+        "Водный стадион",
+        "main_app/img/metro/zamoskvoreckaya.png"
+      ],
+      [
+        "Балтийская",
+        "main_app/img/metro/moscow_kolcevaya.png"
+      ]
+    ]
+  }
+]
